@@ -30,7 +30,7 @@ For more information, please refer to <http://unlicense.org/> ---->
 <body>
 <header id="title">
 	<div style="display:inline;min-width:700px">
-    <img src="lib/lock.png" style="float:left;" alt="PGP Secure Mailer" title="PGP Secure Mailer" />
+    <img src="http://s12.postimg.org/fbd9pu5jx/lock.png" style="float:left;" alt="PGP Secure Mailer" title="PGP Secure Mailer" />
 		<h1 style="display:inline;min-width:300px">PGP Secure Mailer<span style="font-size:0.6em"></span></h1><br>
 		</header>	
 	<?php echo $_REQUEST['message'];  ?>
